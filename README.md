@@ -48,7 +48,17 @@ No additional installation is required.
 
 ## 📸 Screenshots
 
-(Add screenshots here after uploading them.)
+### Home Page
+
+![Home Page](screenshot1.png)
+
+### Currency Converter
+
+![Currency Converter](screenshots/converter.png)
+
+### Result
+
+![Result](screenshots/result.png)
 
 ---
 
