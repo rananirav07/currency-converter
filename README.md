@@ -54,11 +54,11 @@ No additional installation is required.
 
 ### Currency Converter
 
-![Currency Converter](screenshots/converter.png)
+![Currency Converter](screenshot4.png)
 
 ### Result
 
-![Result](screenshots/result.png)
+![Result](screenshot5.png)
 
 ---
 
