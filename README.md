@@ -36,6 +36,15 @@ currency-converter
 
 ---
 
+
+## 🚀 Live Demo
+
+👉 https://rananirav07.github.io/currency-converter/
+
+---
+
+
+
 ## ▶️ How to Run the Project
 
 1. Download or clone the repository.
